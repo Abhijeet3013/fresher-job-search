@@ -1,0 +1,11 @@
+job_title,company,location,experience,description,apply_link
+Software Engineer,TCS,Mumbai,Fresher,"Software development, Java, Python skills",https://example.com/job1
+Data Analyst,Infosys,Bangalore,Fresher,"Analyze data using Excel, SQL, PowerBI",https://example.com/job2
+Machine Learning Intern,Google,Hyderabad,Fresher,"Build ML models, Python, TensorFlow",https://example.com/job3
+HR Executive,Wipro,Pune,Fresher,"HR recruitment, onboarding, communication",https://example.com/job4
+Digital Marketing Fresher,Accenture,Chennai,Fresher,"SEO, Social Media, Content Writing",https://example.com/job5
+Business Analyst,Capgemini,Delhi,Fresher,"Business strategy, research, analysis",https://example.com/job6
+Front End Developer,Mindtree,Mumbai,Fresher,"HTML, CSS, JavaScript, React",https://example.com/job7
+Python Developer,IBM,Pune,Fresher,"Python backend development, APIs, Django",https://example.com/job8
+Java Developer,HCL,Bangalore,Fresher,"Java Spring Boot, Hibernate",https://example.com/job9
+Technical Support Engineer,Tech Mahindra,Hyderabad,Fresher,"Technical support, troubleshooting",https://example.com/job10
